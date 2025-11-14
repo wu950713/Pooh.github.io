@@ -14,7 +14,7 @@ html {
 header {
     grid-row: 1 / 2;
     grid-column: 1 / 4;
-    background-image: url("期中專案照片/background.jpg");
+    background-image: url("images/background.jpg");
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -250,7 +250,7 @@ section.medata {
 .student-union-card,
 .finance-card,
 .project-card {
-    background-image: url("期中專案照片/exback.jpg");
+    background-image: url("images/exback.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -309,7 +309,7 @@ section.medata {
 .personality-text {
     flex: 2;
     padding: 20px 0 20px 20px;
-    background-image:url( "期中專案照片/personalback.jpg");
+    background-image:url( "images/personalback.jpg");
     border-radius: 8px;
     margin-right: 50px;
     opacity: 0.7;
